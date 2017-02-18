@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1487423054 source:/home/chef/my_git/vocabterm/vocabterm/vocable.cpp
+	"vocable.h"
+	<iostream>
+
+1487424192 /home/chef/my_git/vocabterm/vocabterm/vocable.h
+	<string>
+
+1487429200 source:/home/chef/my_git/vocabterm/vocabterm/vocabterm.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"vocable.h"
+	<sstream>
+	<vector>
+

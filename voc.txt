@@ -1,0 +1,3 @@
+hola	"hallo was geht"
+que	was
+casa	haus
