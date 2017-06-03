@@ -1,3 +1,15 @@
-hola	"hallo was geht"
-que	was
-casa	haus
+0	zuerst	at first	0
+1	noch nicht	not yet	0
+2	allein	alone	0
+3	also	so	0
+4	andere other	0
+5	anderthalb	one and a half	0
+6	anfangen	to begin	0
+7	Antwort	answer	0
+8	antworten	to answer	0
+9	schon	already	0
+10	sobald	as soon as	0
+11	sofort	immediately	0
+12	vorgestern	day before yesterday	0
+13	vorher	beforehand	0
+14	Vormittag	morning	0
