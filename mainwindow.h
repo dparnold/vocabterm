@@ -18,6 +18,8 @@ public:
 private slots:
     void on_actionManage_Vocabulary_triggered();
 
+    void on_action_Exit_triggered();
+
 private:
     Ui::MainWindow *ui;
 };
